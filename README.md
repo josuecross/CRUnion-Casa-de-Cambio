@@ -24,7 +24,8 @@ siguientes métodos:
 ![Captura de pantalla 2023-09-10 233834](https://github.com/josuecross/CRUnion-Casa-de-Cambio/assets/85675115/6e6b19e9-d2c1-472b-8eb8-67be3157a8cf)
 
 * VentaDolares: se cobra un impuesto sobre la cantidad final de dólares a vender, según la siguiente tabla
-![image](https://github.com/josuecross/CRUnion-Casa-de-Cambio/assets/85675115/60a328f6-9058-4ec4-887b-889b87a7491a)
+![image](https://github.com/josuecross/CRUnion-Casa-de-Cambio/assets/85675115/600d703c-c168-45f4-9569-0336cd9534d4)
+
 
 La empresa busca llevar un registro de todas las personas que realizan conversiones de monedas, así como el histórico de conversiones realizadas.
 Para ello, debe crear una clase nueva llamada Cliente, con los siguientes atributos y sus respectivos
